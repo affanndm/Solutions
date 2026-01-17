@@ -1,10 +1,16 @@
-DMOJ & LeetCode Solutions
-This repository contains my competitive programming solutions for problems on DMOJ, CodeForces, and LeetCode
+# DMOJ & LeetCode Solutions
 
-It serves as a collection of my accepted submissions, primarily written in Python. This is organized for reference, practice, and progress tracking as I improve my problem-solving skills.
+This repository contains my competitive programming solutions for problems from **LeetCode**, **DMOJ**, and **Codeforces**.
 
-Contents
-Solutions in Python
-Problems from DMOJ, CodeForces, and LeetCode
-Direct submissions as uploaded to the platforms
-Miscellaneous Solutions from varied platforms.
+It serves as a personal archive of **accepted submissions**, primarily written in **Python**, and is used for reference, practice, and tracking my progress as I improve my problem-solving and algorithmic skills.
+
+## Contents
+- Python solutions to competitive programming problems  
+- Problems from LeetCode (primary focus), DMOJ, and Codeforces  
+- Code submitted directly to the respective platforms  
+- Miscellaneous solutions from other problem-solving platforms (if added)
+
+## Notes
+- All solutions are written for learning and practice  
+- Problem statements are not included  
+- Code reflects submissions as they were accepted and may not be optimized further
