@@ -18,7 +18,7 @@ class Solution:
         }
 
         total = 0
-        temp = 0  # kept as requested
+        temp = 0  
 
         for i, num in enumerate(s):
             # If this is the last character
