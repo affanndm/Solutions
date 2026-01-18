@@ -1,4 +1,4 @@
-# DMOJ & LeetCode Solutions
+# Programming Solutions
 
 This repository contains my competitive programming solutions for problems from **LeetCode**, **DMOJ**, and **Codeforces**.
 
